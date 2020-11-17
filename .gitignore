@@ -12,4 +12,7 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+<<<<<<< HEAD
 node_modules
+=======
+>>>>>>> c657ffdb0dc679fc8683dc4e6c95efdf8af938d3
