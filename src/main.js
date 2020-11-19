@@ -12,6 +12,11 @@ import Toast from './components/Model/index'
 // eslint-disable-next-line no-unused-vars
 // import 'bootstrap/dist/js/bootstrap.min'
 import 'bootstrap/dist/css/bootstrap.min.css'
+import 'bootstrap/fonts/glyphicons-halflings-regular.eot'
+import 'bootstrap/fonts/glyphicons-halflings-regular.svg'
+import 'bootstrap/fonts/glyphicons-halflings-regular.ttf'
+import 'bootstrap/fonts/glyphicons-halflings-regular.woff'
+import 'bootstrap/fonts/glyphicons-halflings-regular.woff2'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 Vue.use(Toast)
 

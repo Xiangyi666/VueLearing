@@ -6,10 +6,12 @@
        <a href="#" class="btn btn-info btn-lg"><!--打印机图标-->
           <span class="glyphicon glyphicon-print"></span> Print
         </a>
+
+<router-link :to="{ path: '/' }">
          <a href="#" class="btn btn-info btn-lg"><!--列表图标-->
           <span class="glyphicon glyphicon-th"></span> Th
         </a>
-
+</router-link>
     <div id='print'>
 <input type="checkbox" @change="changeLikeList()" v-model="ckeckVal" ><span class="glyphicon glyphicon-heart" ></span>
     </div>
